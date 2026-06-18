@@ -1,4 +1,4 @@
-<h1 align="center">Dev Lopes 🚀</h1>
+<h1 align="center">lgustavomoura 🚀</h1>
 <h3 align="center">Transformando ideias em experiências visuais com código e criatividade</h3>
  
 ---
@@ -15,7 +15,6 @@
 🌐 Idiomas:  
 &nbsp;&nbsp;&nbsp;&nbsp;🇧🇷 Português (nativo)  
 &nbsp;&nbsp;&nbsp;&nbsp;🇺🇸 Inglês (fluente)  
-&nbsp;&nbsp;&nbsp;&nbsp;🇮🇹 Italiano (em aprendizado)
  
 ---
  
